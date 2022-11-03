@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "email": "cliente@cliente.com",
+      "password": "$2a$10$IWl/WEr2z9s1XO.2CRtalu.Nk9PbxCWHjVULkbf9dpFF5Wnm29e9W",
+      "id": 1
+    },
+    {
+      "email": "admin@example.com",
+      "password": "$2a$10$IWl/WEr2z9s1XO.2CRtalu.Nk9PbxCWHjVULkbf9dpFF5Wnm29e9W",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": "hdmdu0t80yjkfqselfc",
+      "name": "Zapato",
+      "stock": 0,
+      "price": 40000,
+      "shortDesc": "Zapatos talla 41, adibon.",
+      "description": "copia baarata de la marca adidas."
+    },
+    {
+      "id": "3dc7fiyzlfmkfqseqam",
+      "name": "Maleta",
+      "stock": 15,
+      "price": 400000,
+      "shortDesc": "maleta de cuero importada.",
+      "description": "Necesita mucho cuidado debido al cuero falso."
+    }
+  ]
+}
