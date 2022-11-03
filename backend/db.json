@@ -23,10 +23,26 @@
     {
       "id": "3dc7fiyzlfmkfqseqam",
       "name": "Maleta",
-      "stock": 15,
+      "stock": 12,
       "price": 400000,
       "shortDesc": "maleta de cuero importada.",
       "description": "Necesita mucho cuidado debido al cuero falso."
+    },
+    {
+      "id": "7lk00z3nsxnla0d44sx",
+      "name": "Saco",
+      "price": "20000",
+      "stock": 49,
+      "shortDesc": "Saco importado",
+      "description": "Saco importado de china"
+    },
+    {
+      "id": "hj56g55dn4la0da7vb",
+      "name": "zapato talla 40",
+      "price": "50000",
+      "stock": "20",
+      "shortDesc": "zapato talla 40",
+      "description": "zapato"
     }
   ]
 }

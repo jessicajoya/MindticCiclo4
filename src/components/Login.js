@@ -66,7 +66,7 @@ class Login extends Component {
                 <button
                   className="button is-primary is-outlined is-pulled-right"
                 >
-                  Submit
+                  Ingresar
                 </button>
               </div>
             </div>
